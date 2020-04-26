@@ -1,0 +1,146 @@
+@media screen and (max-width: 980px) {
+	
+	
+
+}
+
+@media screen and (max-width: 768px) {
+    #head {
+        background: url(../img/Ellipse\ 5.png) no-repeat;
+        max-width: 100%;
+        height: 390px;
+        background-size: cover;
+    }
+    #head .navbar-light .navbar-nav .active > .nav-link {
+        color: #6633cc;
+        background: url(../img/menu_hover.png) left bottom no-repeat;
+        font-weight: 600;
+    }
+    #head .navbar-light .navbar-nav .nav-link:hover, .navbar-nav .btn-link:hover{
+        font-size: 15px;
+        font-weight: 600;
+        margin: 0px 14px;
+        color: #6633cc;
+        background: url(../img/menu_hover.png) left bottom no-repeat;
+    }
+    #head .banner-inner {
+        margin-top: -19px;
+        margin-right: 200px;
+    }
+
+    #head .banner-inner h1{
+        font-size: 35px;
+    }
+
+    #highlight{
+        width: 100%;
+        height: 65px;
+        padding: 44px 0px;
+        background: url(../img/highlight.png) center top no-repeat;
+        background-size: cover;
+        margin-top: 150px;
+    }
+    
+    #highlight h3 {
+        color: #f2f2f2;
+        margin-top: -11px;
+        margin-left: 20px;
+        font-size: 12px;
+        font-weight: 600;
+    }
+    
+}
+@media screen and (max-width: 480px ) {
+    #head{
+        background: url(../img/Ellipse\ 5.png) no-repeat;
+        max-width: 100%;
+        height:350px;
+        background-size: cover;
+    }
+    
+    #head .navbar-light .navbar-nav .active > .nav-link {
+        color: #6633cc;
+        background: url(../img/menu_hover.png) left bottom no-repeat;
+        font-weight: 600;
+    }
+    #head .navbar-light .navbar-nav .nav-link:hover, .navbar-nav .btn-link:hover{
+        font-size: 15px;
+        font-weight: 600;
+        margin: 0px 14px;
+        color: #6633cc;
+        background: url(../img/menu_hover.png) left bottom no-repeat;
+    }
+    #head .banner-inner{
+        margin-top: 10px;
+        margin-right: 100px;
+    }
+
+    #head .banner-inner h1{
+        font-size: 35px;
+    }
+
+    #highlight{
+        width: 100%;
+        height: 65px;
+        padding: 44px 0px;
+        background: url(../img/highlight.png) center top no-repeat;
+        background-size: cover;
+        margin-top: 150px;
+    }
+    
+    #highlight h3 {
+        color: #f2f2f2;
+        margin-top: -11px;
+        margin-left: 20px;
+        font-size: 12px;
+        font-weight: 600;
+    }
+    
+}
+@media screen and (max-width: 768px) {
+    #head{
+        background: url(../img/Ellipse\ 5.png) no-repeat;
+        max-width: 100%;
+        height:300px;
+        background-size: cover;
+    }
+    
+    #head .navbar-light .navbar-nav .active > .nav-link {
+        color: #6633cc;
+        background: url(../img/menu_hover.png) left bottom no-repeat;
+        font-weight: 600;
+    }
+    #head .navbar-light .navbar-nav .nav-link:hover, .navbar-nav .btn-link:hover{
+        font-size: 15px;
+        font-weight: 600;
+        margin: 0px 14px;
+        color: #6633cc;
+        background: url(../img/menu_hover.png) left bottom no-repeat;
+    }
+    #head .banner-inner{
+        margin-top: 10px;
+        margin-right: 100px;
+    }
+
+    #head .banner-inner h1{
+        font-size: 25px;
+    }
+
+    #highlight{
+        width: 100%;
+        height: 65px;
+        padding: 44px 0px;
+        background: url(../img/highlight.png) center top no-repeat;
+        background-size: cover;
+        margin-top: 150px;
+    }
+    
+    #highlight h3 {
+        color: #f2f2f2;
+        margin-top: -11px;
+        margin-left: 20px;
+        font-size: 12px;
+        font-weight: 600;
+    }
+    
+}
